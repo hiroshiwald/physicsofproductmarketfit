@@ -176,12 +176,12 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 
 **Historical examples:**
 
-| Innovation | Baseline | 10x Improvement | Power Category |
-| ----- | ----- | ----- | ----- |
-| Email | Postal mail (days) | Instant delivery | Cognitive \+ Social |
-| Search engines | Library research (hours) | Results in seconds | Cognitive |
-| On-demand transportation | 20-minute wait | 2-minute arrival | Environmental |
-| LLMs | 100 Open Google Tabs | 10 second synthesis | Cognitive |
+| Innovation             | Baseline                | 10x Improvement     | Power Category     |
+|------------------------|-------------------------|---------------------|--------------------|
+| Email                  | Postal mail (days)      | Instant delivery    | Cognitive + Social |
+| Search engines         | Library research (hours)| Results in seconds  | Cognitive          |
+| On-demand transportation | 20-minute wait        | 2-minute arrival    | Environmental      |
+| LLMs                   | 100 Open Google Tabs    | 10 second synthesis | Cognitive          |
 
 **Diagnostic test:** Can you articulate a specific dimension where your product delivers 10x improvement over the status quo? If not, you have an incremental and not a transformative product.
 
@@ -201,15 +201,15 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 
 Use these laws as a checklist for evaluating product-market fit:
 
-**Inertia (Law \#1):** Have you switched your mindset to see the customer’s inertia of switching from the status quo to your product: including financial, temporal, cognitive, social costs? 
+**Inertia (Law #1):** Have you switched your mindset to see the customer’s inertia of switching from the status quo to your product: including financial, temporal, cognitive, social costs? 
 
-**Behavior (Law \#2):** Are you measuring actual usage patterns and conversion behaviors, or relying on stated preferences and interview feedback?
+**Behavior (Law #2):** Are you measuring actual usage patterns and conversion behaviors, or relying on stated preferences and interview feedback?
 
-**Wave Forces (Law \#3):** What specific external force(s) in the past 18 months has made your solution urgent rather than optional? Can you name it / them precisely? Are there stacked forces you can identify? 
+**Wave Forces (Law #3):** What specific external force(s) in the past 18 months has made your solution urgent rather than optional? Can you name it / them precisely? Are there stacked forces you can identify? 
 
-**Critical Metrics (Law \#4):** Does your product measurably impact a metric that your customer's executive team reviews? Are you speaking with people who own these metrics?
+**Critical Metrics (Law #4):** Does your product measurably impact a metric that your customer's executive team reviews? Are you speaking with people who own these metrics?
 
-**10x Power (Law \#5):** In which dimension does your product deliver order-of-magnitude improvement? Can you demonstrate this quantitatively?
+**10x Power (Law #5):** In which dimension does your product deliver order-of-magnitude improvement? Can you demonstrate this quantitatively?
 
 **The Innovator’s Blindspot (Bonus):** Have you observed your customers' actual workflows, or are you inferring their needs from your own perspective?
 
