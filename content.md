@@ -137,35 +137,24 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 
 * Align your product with the metrics that matter internally to your customers. Whether you are taking a top down or bottom up approach to sales, connecting to what gets measured is a supporting force to adoption. 
 
-**Decision-maker metric priorities:**
+**Decision‑maker metric priorities**
 
 | Metric category | Mechanism |
-
 |---|---|
-
-| Cash flow velocity | Revenue acceleration, payment timing optimization |
-
-| Cost efficiency | Waste reduction, operational streamlining |
-
+| Cash flow velocity | Revenue acceleration; payment‑timing optimization |
+| Cost efficiency | Waste reduction; operational streamlining |
 | Capital allocation ROI | Investment return optimization |
-
 | Productivity per employee | Output per unit labor cost |
+| Inventory turnover | Holding‑cost reduction; supply management |
+| Pricing power | Margin optimization; elasticity management |
+| Risk/compliance management | Fine avoidance; continuity assurance |
+| Market‑demand dynamics | Demand‑shift response speed |
+| Cost of capital | Funding‑source optimization |
+| Competitive positioning | Market share; differentiation maintenance |
+| Regulatory adaptation | Policy‑compliance speed; penalty avoidance |
+| Supplier/customer terms | Credit and pricing‑negotiation outcomes |
 
-| Inventory turnover | Holding cost reduction, supply management |
 
-| Pricing power | Margin optimization, elasticity management |
-
-| Risk/compliance management | Fine avoidance, continuity assurance |
-
-| Market demand dynamics | Demand shift response speed |
-
-| Cost of capital | Funding source optimization |
-
-| Competitive positioning | Market share, differentiation maintenance |
-
-| Regulatory adaptation | Policy compliance speed, penalty avoidance |
-
-| Supplier/customer terms | Credit and pricing negotiation outcomes |
 
 **Diagnostic questions:**
 
