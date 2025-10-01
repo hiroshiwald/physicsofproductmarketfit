@@ -3,41 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Startup Playbook — Your Title</title>
-  <meta name="description" content="The Physics of Product Market Fit." />
-  <meta property="og:title" content="The Physics of Product Market Fit" />
-  <meta property="og:description" content="The Physics of Product Market Fit site." />
-  <meta property="og:type" content="website" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <link rel="icon" href="favicon.ico" />
-  <link rel="preload" href="fonts/inter-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <title>Content</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div id="progress"></div>
-  <header class="site-header">
-    <div class="container">
-      <h1 id="site-title">The Physics of Product Market Fit</h1>
-      <p class="byline" id="byline">by Hiroshi Wald (hiroshiwald@gmail.com)</p>
-    </div>
-  </header>
-  <main class="container layout">
-    <article id="content" class="content prose">
-      <!-- Content is injected from content.md -->
-      <noscript>Please enable JavaScript to load the content.</noscript>
-    </article>
-    <aside class="toc" id="toc">
-      <div class="toc-inner">
-        <div class="toc-title">Table of Contents</div>
-        <nav id="toc-list"></nav>
-      </div>
-    </aside>
-  </main>
-  <footer class="container site-footer">
-    <p>&copy; <span id="year"></span> Hiroshi Wald</p>
-  </footer>
-
-  <script src="marked.min.js"></script>
+  <main id="app" class="prose"></main>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>marked.setOptions({ gfm: true, breaks: false });</script>
   <script src="script.js"></script>
 </body>
 </html>

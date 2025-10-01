@@ -140,18 +140,31 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 **Decision‑maker metric priorities**
 
 | Metric category | Mechanism |
+
 |---|---|
+
 | Cash flow velocity | Revenue acceleration; payment‑timing optimization |
+
 | Cost efficiency | Waste reduction; operational streamlining |
+
 | Capital allocation ROI | Investment return optimization |
+
 | Productivity per employee | Output per unit labor cost |
+
 | Inventory turnover | Holding‑cost reduction; supply management |
+
 | Pricing power | Margin optimization; elasticity management |
+
 | Risk/compliance management | Fine avoidance; continuity assurance |
+
 | Market‑demand dynamics | Demand‑shift response speed |
+
 | Cost of capital | Funding‑source optimization |
+
 | Competitive positioning | Market share; differentiation maintenance |
+
 | Regulatory adaptation | Policy‑compliance speed; penalty avoidance |
+
 | Supplier/customer terms | Credit and pricing‑negotiation outcomes |
 
 
@@ -189,6 +202,8 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 | On-demand transportation | 20-minute wait | 2-minute arrival | Environmental |
 
 | LLMs | 100 open tabs | 10-second synthesis | Cognitive |
+
+
 
 **Diagnostic test:** Can you articulate a specific dimension where your product delivers 10x improvement over the status quo? If not, you have an incremental and not a transformative product.
 
