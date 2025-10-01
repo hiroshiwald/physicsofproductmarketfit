@@ -30,7 +30,7 @@ And physics helps to overcome the barrier.
 
 Here are the 5 laws of the Physics of Product Market Fit.
 
-### **Law \#1: The Law of Inertia**
+### **Law #1: The Law of Inertia**
 
 ***Principle:** A human being defaults to the status quo unless acted upon by a force.*
 
@@ -45,7 +45,7 @@ Here are the 5 laws of the Physics of Product Market Fit.
 
 **Takeaway:** Unless your product overcomes this inertia through external forcing functions or dramatically superior outcomes (see 10x power below), adoption will be a challenge regardless of product quality and no matter how painful their current situation may be.
 
-### **Law \#2: The Law of Behavior**
+### **Law #2: The Law of Behavior**
 
 ***Principle:** Human behavior is more reliable than human opinion.*
 
@@ -74,7 +74,7 @@ Watch behavior instead, especially the behavior after you have spoken with custo
 
 **Takeaway:** Observe behavior. Discount opinions. If someone truly demands your product, their actions will demonstrate it *without prompting*. If you are not seeing behavioral signals like those above, continue refining and applying the laws.
 
-### **Law \#3: The Law of Wave Forces**
+### **Law #3: The Law of Wave Forces**
 
 ***Principle:** External forces affecting your customer in the past 18 months determine whether your product is a must-have or a nice-to-have.*
 
@@ -129,7 +129,7 @@ The strongest products answer: "Why now?" with a specific, verifiable external f
 
 Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/watch?v=orqFOGPTQ0w) supporting your product adoption. 
 
-### **Law \#4: The Law of Critical Metrics**
+### **Law #4: The Law of Critical Metrics**
 
 **Principle:** Product-market fit probability increases with connection strength to operational, financial, or strategic metrics.
 
@@ -163,7 +163,7 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 
 **Takeaway:** If your product doesn't measurably impact a C-suite metric, you are selling to the wrong person or solving the wrong problem. If stuck: look up and down the value chain. And if your client contact is not connected to these metrics, they may not have the influence and authority you need to get you across the finish line.
 
-### **Law \#5: The Law of 10x Power**
+### **Law #5: The Law of 10x Power**
 
 ***Principle:** All great inventions and innovations in history always offer power to the customer. Power is defined as the capacity to achieve desired outcomes with less resistance. \~10x power overcomes customer inertia in these categories:*
 
@@ -201,15 +201,15 @@ Bonus: Stack forces to identify a [lollapalooza effect](https://www.youtube.com/
 
 Use these laws as a checklist for evaluating product-market fit:
 
-**Inertia (Law \#1):** Have you switched your mindset to see the customer’s inertia of switching from the status quo to your product: including financial, temporal, cognitive, social costs? 
+**Inertia (Law #1):** Have you switched your mindset to see the customer’s inertia of switching from the status quo to your product: including financial, temporal, cognitive, social costs? 
 
-**Behavior (Law \#2):** Are you measuring actual usage patterns and conversion behaviors, or relying on stated preferences and interview feedback?
+**Behavior (Law #2):** Are you measuring actual usage patterns and conversion behaviors, or relying on stated preferences and interview feedback?
 
-**Wave Forces (Law \#3):** What specific external force(s) in the past 18 months has made your solution urgent rather than optional? Can you name it / them precisely? Are there stacked forces you can identify? 
+**Wave Forces (Law #3):** What specific external force(s) in the past 18 months has made your solution urgent rather than optional? Can you name it / them precisely? Are there stacked forces you can identify? 
 
-**Critical Metrics (Law \#4):** Does your product measurably impact a metric that your customer's executive team reviews? Are you speaking with people who own these metrics?
+**Critical Metrics (Law #4):** Does your product measurably impact a metric that your customer's executive team reviews? Are you speaking with people who own these metrics?
 
-**10x Power (Law \#5):** In which dimension does your product deliver order-of-magnitude improvement? Can you demonstrate this quantitatively?
+**10x Power (Law #5):** In which dimension does your product deliver order-of-magnitude improvement? Can you demonstrate this quantitatively?
 
 **The Innovator’s Blindspot (Bonus):** Have you observed your customers' actual workflows, or are you inferring their needs from your own perspective?
 
