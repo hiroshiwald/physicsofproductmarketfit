@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Convert HTML → Markdown (Paste from Google Docs)</title>
+<link rel="stylesheet" href="assets/styles.css">
+<body style="max-width:720px;margin:24px auto;padding:0 12px">
+<h1>HTML → Markdown helper</h1>
+<p>Google Docs → File → Download → <b>Web page (.html)</b>. Open that HTML, copy all, paste below, then click Convert. Paste the Markdown result into <code>content.md</code>.</p>
+<textarea id="html" style="width:100%;height:45vh;font-family:ui-monospace,monospace"></textarea>
+<div style="margin:12px 0">
+  <button id="go">Convert</button>
+</div>
+<textarea id="md" style="width:100%;height:45vh;font-family:ui-monospace,monospace"></textarea>
+<script type="module">
+  import TurndownService from "https://cdn.jsdelivr.net/npm/turndown@7.1.2/dist/turndown.es.js";
+  const svc = new TurndownService({headingStyle:"atx", codeBlockStyle:"fenced"});
+  document.getElementById('go').onclick = function(){
+    const html = document.getElementById('html').value;
+    const md = svc.turndown(html);
+    document.getElementById('md').value = md;
+  };
+</script>
+</body>
+</html>
