@@ -1,5 +1,3 @@
-# **The Physics of Product-Market Fit**
-
 Lack of [product-market fit](https://pmarchive.com/guide_to_startups_part4.html) kills more startups than any other factor. This guide addresses a specific failure mode: startups that receive positive customer feedback but fail to achieve meaningful adoption or traction (usage or revenue).
 
 The framework below synthesizes insights from advising thousands of startups and borrows from neuroscience, behavioral economics, and human dynamics to explain why customers say they love your product but don't use it.
