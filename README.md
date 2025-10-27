@@ -1,5 +1,5 @@
 ---
-description: How To Get True Customer Traction
+description: Why customers say they love your product but don't use it.
 cover: .gitbook/assets/Gemini_Generated_Image_4w9lcz4w9lcz4w9l.png
 coverY: 0
 layout:
@@ -37,7 +37,7 @@ Give you tools, frameworks and mental models to:
 
 **Lack of** [**product-market fit**](https://www.google.com/url?q=https://pmarchive.com/guide_to_startups_part4.html\&sa=D\&source=editors\&ust=1761262015311437\&usg=AOvVaw3tizMCQD1IM42wsORizk4k) **kills more startups than any other factor**. This guide addresses a specific failure mode: startups that receive positive customer feedback but fail to achieve meaningful adoption or traction (usage or revenue).
 
-Borrowing from **neuroscience, behavioral economics, and human dynamics,** the framework below explains **why customers say they love your product but don't use it — and what to do about it**.
+Borrowing from **neuroscience, behavioral economics, and human dynamics,** the framework below explains <mark style="background-color:yellow;">**why customers say they love your product but don't use it — and what to do about it**</mark>.
 
 ### So Why Does This Happen?
 
