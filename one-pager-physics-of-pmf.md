@@ -1,4 +1,5 @@
 ---
+description: Why customers say they love your product but don't use it.
 cover: .gitbook/assets/ChatGPT Image Oct 23, 2025, 04_24_21 PM.png
 coverY: 28.637172791799383
 layout:
@@ -20,9 +21,7 @@ layout:
     visible: true
 ---
 
-# Physics of PMF 1 Page Summary
-
-### Why customers say they love your product but don't use it.
+# One Pager: Physics of PMF
 
 Lack of product-market fit kills more startups than any other factor. This framework addresses a specific failure mode: startups that receive positive customer feedback but fail to achieve meaningful adoption or traction.&#x20;
 
