@@ -31,7 +31,7 @@ layout:
 
 #### The Wave (Law #3)
 
-☐ **I can name a specific external wave from the past 18 months that makes my solution urgent rather than optional**
+☐ **I can name at least one specific external wave from the past 18 months that makes my solution urgent rather than optional (the more waves the better)**
 
 ☐ **My customers explicitly mention this wave as why they need to change now**
 
