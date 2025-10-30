@@ -27,6 +27,13 @@ Lack of product-market fit kills more startups than any other factor. This frame
 
 A major source of the issue is rooted in **The Innovator's Blindspot:** You embrace change and see opportunity everywhere. Your customers optimize for survival through energy conservation. This isn't laziness. This is biology.
 
+Other factors which widen the gaps between founders and customers include:&#x20;
+
+* &#x20;The Law of Least Effort
+* Status Quo Bias
+* Social Desireability Bias
+* The Intention - Action Gap
+
 The way to overcome the gap is through thinking about physics and the following set of laws:
 
 ### The Five Laws
