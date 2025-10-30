@@ -25,7 +25,7 @@ layout:
 
 **Instructions:** Check each box only if you have strong, verifiable evidence. Be honest. Your customers are not like you.&#x20;
 
-**Intention:** This checklist is a diagnostic tool, not dogma. Use it to guide your thinking and start the dialogue about what's actually happening with your product and company.
+**Intention:** This checklist is a diagnostic tool (mainly for B2B), not dogma. Use it to guide your thinking and start the dialogue about what's actually happening with your product and company.
 
 ### THE CHECKLIST
 
