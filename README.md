@@ -1,6 +1,6 @@
 ---
 description: Why customers say they love your product but don't use it.
-cover: .gitbook/assets/Gemini_Generated_Image_4w9lcz4w9lcz4w9l.png
+cover: .gitbook/assets/ChatGPT Image Oct 23, 2025, 04_24_21 PM.png
 coverY: 0
 layout:
   width: default
