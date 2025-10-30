@@ -1,7 +1,7 @@
 ---
 description: Why customers say they love your product but don't use it.
 cover: .gitbook/assets/ChatGPT Image Oct 23, 2025, 04_24_21 PM.png
-coverY: 28.637172791799383
+coverY: 0
 layout:
   width: default
   cover:
