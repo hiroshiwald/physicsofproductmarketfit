@@ -47,3 +47,7 @@ If your product doesn't measurably impact a C-suite metric, you're selling to th
 Can you articulate where your product delivers 10x improvement over the status quo? Products offering order-of-magnitude power increases require minimal external forcing for adoption.
 
 **The Implementation:** Find the wave. Connect to metrics. Deliver 10x power. Watch behavior. Meet people where they are.
+
+[Feedback](https://forms.gle/YpfzMKBTSTjisAz97)
+
+© 2025 [Hiroshi Wald](https://www.google.com/url?q=https://www.linkedin.com/in/hiroshiwald/\&sa=D\&source=editors\&ust=1761262015374424\&usg=AOvVaw3fOapmQrvsbIxMPzl-3rNN)

@@ -91,3 +91,7 @@ Most founders fail because they trust stated preferences over revealed preferenc
 **Are customers pulling you forward, or are you pushing them?**
 
 If you're pushing, you're fighting physics.
+
+[Feedback](https://forms.gle/YpfzMKBTSTjisAz97)
+
+© 2025 [Hiroshi Wald](https://www.google.com/url?q=https://www.linkedin.com/in/hiroshiwald/\&sa=D\&source=editors\&ust=1761262015374424\&usg=AOvVaw3fOapmQrvsbIxMPzl-3rNN)
