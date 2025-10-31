@@ -1,5 +1,5 @@
 ---
-description: Why customers say they love your product but don't use it.
+description: A Companion To The Physics of PMF Guide
 cover: .gitbook/assets/ChatGPT Image Oct 23, 2025, 04_24_21 PM.png
 coverY: 0
 layout:
@@ -29,7 +29,7 @@ A major source of the issue is rooted in **The Innovator's Blindspot:** You embr
 
 Other factors which widen the gaps between founders and customers include:&#x20;
 
-* &#x20;The Law of Least Effort
+* The Law of Least Effort
 * Status Quo Bias
 * Social Desireability Bias
 * The Intention - Action Gap
