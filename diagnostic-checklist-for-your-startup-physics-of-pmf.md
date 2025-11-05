@@ -31,33 +31,33 @@ layout:
 
 #### The Wave (Law #3)
 
-☐ **I can name at least one specific external wave from the past 18 months that makes my solution urgent rather than optional (the more waves the better)**
+☐ I can name at least one specific external wave from the past 18 months that makes my solution urgent rather than optional (the more waves the better)
 
-☐ **My customers explicitly mention this wave as why they need to change now**
+☐ My customers explicitly mention this wave as why they need to change now
 
 #### Behavior Over Opinion (Law #2)
 
-☐ **Customers are asking unprompted about pricing or contract terms**
+☐ Customers are asking unprompted about pricing or contract terms
 
-☐ **Customers are introducing me to decision-makers or budget holders without my asking**
+☐ Customers are introducing me to decision-makers or budget holders without my asking
 
-☐ **Customers are taking action to solve this problem right now (albeit badly, expensively, slowly)**
+☐ Customers are taking action to solve this problem right now (albeit badly, expensively, slowly)
 
 #### The Incentive Structure (Law #4)
 
-☐ **My product measurably impacts a metric that my customer's CEO reviews with their board**
+☐ My product measurably impacts a metric that my customer's CEO reviews with their board
 
-☐ **I'm speaking with people who control budgets or own the metrics my product impacts**
+☐ I'm speaking with people who control budgets or own the metrics my product impacts
 
 #### 10x Power (Law #5)
 
-☐ **I can articulate a specific dimension where my product delivers 10x (not incremental) improvement over the status quo**
+☐ I can articulate a specific dimension where my product delivers 10x (not incremental) improvement over the status quo
 
-☐ **I can demonstrate this 10x improvement quantitatively**
+☐ I can demonstrate this 10x improvement quantitatively
 
 #### The Innovator's Blindspot (Bonus)
 
-☐ **I have directly observed my customers' actual workflows (not just interviewed them)**
+☐ I have directly observed my customers' actual workflows (not just interviewed them)
 
 ***
 
